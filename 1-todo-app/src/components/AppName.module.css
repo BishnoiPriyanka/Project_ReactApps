@@ -1,0 +1,8 @@
+.todoHeading {
+    font-weight: 500;
+    font-size: 45px;
+    text-shadow: 3px 3px 3px #ababab;
+    margin: 10px;
+    margin-bottom: 20px;
+    font-family: Copperplate, Papyrus, fantasy;
+  }
